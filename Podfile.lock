@@ -1,0 +1,32 @@
+PODS:
+  - ADAL (4.0.9):
+    - ADAL/app-lib (= 4.0.9)
+  - ADAL/app-lib (4.0.9):
+    - ADAL/tokencacheheader
+  - ADAL/tokencacheheader (4.0.9)
+  - Alamofire (5.2.2)
+  - AzureSpatialAnchors (2.4.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - ADAL (~> 4.0)
+  - Alamofire (~> 5.1)
+  - AzureSpatialAnchors (= 2.4.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - ADAL
+    - Alamofire
+    - AzureSpatialAnchors
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ADAL: 7cc405b9a026b89d6ca402d1edb1bb79b74b564e
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AzureSpatialAnchors: d253d1821c612fea021ce4321d16ed47713e733b
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 403510a2f78cb85c7ca58fcc3e621d7fbcb7aba5
+
+COCOAPODS: 1.9.3
